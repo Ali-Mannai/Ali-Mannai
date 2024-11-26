@@ -8,21 +8,14 @@
 
 **About me**
 
-I'm Ali Mannai, a Computer Science student at ENETCOM Sfax in Tunisia 💻. I'm 23 years old, and I'm passionate about Full Stack Web Development. I love to explore new technologies and innovate in the field of software engineering. My focus is on technologies like AI, DevOps, Cloud Computing, and more. You can also check out my [YouTube channel](https://www.youtube.com/c/Ali-Mannai) for educational content.
+I'm Ali Mannai, a Computer Science student at ENETCOM Sfax in Tunisia 💻. I'm 23 years old, and I'm passionate about Full Stack Web Development. I love to explore new technologies and innovate in the field of software engineering. My focus is on technologies like AI, DevOps, Cloud Computing, and more. You can also check out my [LinkedIn Account](https://www.linkedin.com/in/ali-mannai) for more details.
 
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
-[![Mail Badge](https://img.shields.io/badge/-Ali-Mannai-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/Ali-Mannai) 
-[![Linkedin Badge](https://img.shields.io/badge/-Ali-Mannai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mannai/) 
-[![Mail Badge](https://img.shields.io/badge/-@Ali-Mannai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/Ali-Mannai/)
-[![Mail Badge](https://img.shields.io/badge/-Ali-Mannai-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ali.mannai@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Ali-Mannai?style=social)
-[![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Ali-Mannai)
-<img src="https://img.shields.io/badge/Age-23-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -31,7 +24,13 @@ I'm Ali Mannai, a Computer Science student at ENETCOM Sfax in Tunisia 💻. I'm 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <br>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://alimannai.netlify.app/certificates) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://alimannai.netlify.app/certificates) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://alimannai.netlify.app/certificates) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://alimannai.netlify.app/certificates) 
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](https://alimannai.netlify.app/certificates) 
+[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](https://alimannai.netlify.app/certificates)
+
 
 <!-- Github Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -39,7 +38,6 @@ I'm Ali Mannai, a Computer Science student at ENETCOM Sfax in Tunisia 💻. I'm 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Mannai&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ali-Mannai&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ali-Mannai)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Mannai&&theme=algolia" alt="Ali-Mannai" /></p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Mannai&theme=react)
@@ -61,12 +59,10 @@ I'm Ali Mannai, a Computer Science student at ENETCOM Sfax in Tunisia 💻. I'm 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Mannai&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/Ali-Mannai/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ali-Mannai&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/Ali-Mannai/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 
 Credit: [Ali Mannai](https://github.com/Ali-Mannai)
 
-Last Edited on: 03/09/2024
+Last Edited on: 26/11/2024
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
