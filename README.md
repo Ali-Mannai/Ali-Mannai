@@ -4,7 +4,7 @@
 </p>
 
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Ali.png" width="500px" alt="hi">
+<img title="My Avatar" align="left" src="assets/images/Aziz.png" width="500px" alt="hi">
 
 **About me**
 
