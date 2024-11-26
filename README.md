@@ -3,9 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Ali+Mannai..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png" width="500px" alt="hi">
-
 **About me**
 
 I'm Ali Mannai, a Computer Science student at ENETCOM Sfax in Tunisia 💻. I'm 23 years old, and I'm passionate about Full Stack Web Development. I love to explore new technologies and innovate in the field of software engineering. My focus is on technologies like AI, DevOps, Cloud Computing, and more. You can also check out my [LinkedIn Account](https://www.linkedin.com/in/ali-mannai) for more details.
